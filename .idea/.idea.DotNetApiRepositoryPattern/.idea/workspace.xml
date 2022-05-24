@@ -6,16 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6123644-e568-4584-8521-5c8445fc4dca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternEntities/DotNetApiRepositoryPatternEntities.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternEntities/Models/Company.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternEntities/Models/Employee.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternRepository/DotNetApiRepositoryPatternRepository.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternRepository/RepositoryContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternWeb/ContextFactory/RepositoryContextFactory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNetApiRepositoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNetApiRepositoryPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DotNetApiRepositoryPattern.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DotNetApiRepositoryPattern.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DotNetApiRepositoryPatternWeb/DotNetApiRepositoryPatternWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternWeb/DotNetApiRepositoryPatternWeb.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DotNetApiRepositoryPatternWeb/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternWeb/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotNetApiRepositoryPatternRepository/RepositoryContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DotNetApiRepositoryPatternRepository/RepositoryContext.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652670836749</updated>
       <workItem from="1652670871318" duration="6125000" />
-      <workItem from="1653022411986" duration="3245000" />
+      <workItem from="1653022411986" duration="5042000" />
     </task>
     <servers />
   </component>
