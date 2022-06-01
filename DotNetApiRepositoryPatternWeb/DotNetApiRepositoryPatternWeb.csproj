@@ -13,7 +13,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DotNetApiRepositoryPatternPresentation\DotNetApiRepositoryPatternPresentation.csproj" />
       <ProjectReference Include="..\DotNetApiRepositoryPatternRepository\DotNetApiRepositoryPatternRepository.csproj" />
+      <ProjectReference Include="..\DotNetApiRepositoryPatternService\DotNetApiRepositoryPatternService.csproj" />
     </ItemGroup>
 
 </Project>

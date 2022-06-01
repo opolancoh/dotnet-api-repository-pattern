@@ -6,6 +6,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternRepository", "DotNetApiRepositoryPatternRepository\DotNetApiRepositoryPatternRepository.csproj", "{21A3E808-9FE6-49F6-A599-E643A81A8641}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternContracts", "DotNetApiRepositoryPatternContracts\DotNetApiRepositoryPatternContracts.csproj", "{12603E3F-BDF1-43BF-A403-A45FB6D01519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternService.Contracts", "DotNetApiRepositoryPatternService.Contracts\DotNetApiRepositoryPatternService.Contracts.csproj", "{8A382947-DB31-4BEA-BAA6-C6FF0972DE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternService", "DotNetApiRepositoryPatternService\DotNetApiRepositoryPatternService.csproj", "{99F7C5F9-3EBB-4515-B7CA-7DF6E9B494B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiRepositoryPatternPresentation", "DotNetApiRepositoryPatternPresentation\DotNetApiRepositoryPatternPresentation.csproj", "{2A6E3F63-5571-42E9-829F-B01C662C3FD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +32,21 @@ Global
 		{21A3E808-9FE6-49F6-A599-E643A81A8641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A3E808-9FE6-49F6-A599-E643A81A8641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A3E808-9FE6-49F6-A599-E643A81A8641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12603E3F-BDF1-43BF-A403-A45FB6D01519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12603E3F-BDF1-43BF-A403-A45FB6D01519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12603E3F-BDF1-43BF-A403-A45FB6D01519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12603E3F-BDF1-43BF-A403-A45FB6D01519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A382947-DB31-4BEA-BAA6-C6FF0972DE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A382947-DB31-4BEA-BAA6-C6FF0972DE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A382947-DB31-4BEA-BAA6-C6FF0972DE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A382947-DB31-4BEA-BAA6-C6FF0972DE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F7C5F9-3EBB-4515-B7CA-7DF6E9B494B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F7C5F9-3EBB-4515-B7CA-7DF6E9B494B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F7C5F9-3EBB-4515-B7CA-7DF6E9B494B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F7C5F9-3EBB-4515-B7CA-7DF6E9B494B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6E3F63-5571-42E9-829F-B01C662C3FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6E3F63-5571-42E9-829F-B01C662C3FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6E3F63-5571-42E9-829F-B01C662C3FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6E3F63-5571-42E9-829F-B01C662C3FD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

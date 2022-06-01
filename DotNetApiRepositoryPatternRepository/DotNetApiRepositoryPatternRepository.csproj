@@ -5,6 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DotNetApiRepositoryPatternContracts\DotNetApiRepositoryPatternContracts.csproj" />
       <ProjectReference Include="..\DotNetApiRepositoryPatternEntities\DotNetApiRepositoryPatternEntities.csproj" />
     </ItemGroup>
 
